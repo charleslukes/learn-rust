@@ -2,12 +2,16 @@
 // mod vars;
 // mod types;
 // mod tupples;
-mod arrays;
+// mod arrays;
+mod vectors;
+
 
 
 fn main() {
     // print::run();
     // types::run();
     // tupples::tupple();
-    arrays::arrays();
+    // arrays::arrays();
+    vectors::vectors_are_arrays();
+
 }
