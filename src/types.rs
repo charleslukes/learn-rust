@@ -6,5 +6,6 @@ pub fn run(){
 
     println!("{}", _new_word);
     println!("10 > 5 {}", greater_num);
-
+    // get the length of a string
+    println!("The length of the string is {}", _new_word.len());
 }
