@@ -3,7 +3,9 @@
 // mod types;
 // mod tupples;
 // mod arrays;
-mod vectors;
+// mod vectors;
+mod structs;
+
 
 
 
@@ -12,6 +14,7 @@ fn main() {
     // types::run();
     // tupples::tupple();
     // arrays::arrays();
-    vectors::vectors_are_arrays();
+    // vectors::vectors_are_arrays();
+    structs::run();
 
 }
